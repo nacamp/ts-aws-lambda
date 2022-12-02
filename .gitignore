@@ -1,6 +1,9 @@
 node_modules
 .serverless
 **/.DS_STORE
+**/yarn.lock
 lib
+config.dev.js
+config.prod.js
 src/layer/.servlerless/**
-src/layer/node_modules
+src/layer/nodejs/node_modules
