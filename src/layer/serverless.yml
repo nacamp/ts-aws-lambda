@@ -1,0 +1,11 @@
+service: ts-aws-layer
+provider:
+  name: aws
+  runtime: nodejs16.x
+  region: ap-northeast-2
+
+layers:
+  ts-aws-layer:
+    path: ../layer
+    description: ts-aws-layer
+    retain: true
