@@ -1,0 +1,5 @@
+{
+  "d1" :{ "localPath" : "/tmp/1.txt", "key" : "test/1.txt"},
+  "u1" :{ "localPath" : "/tmp/2.txt", "key" : "test/2.txt"},
+  "d2" :{ "localPath" : "/tmp/3.txt", "key" : "test/2.txt"}
+}
